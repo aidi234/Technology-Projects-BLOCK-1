@@ -12,7 +12,8 @@
 - Task for home: complete your profile (picture, short bio, institution, etc.).
 
 ---
-
+2+5=
+7
 ### **PART 2 — Forking and Cloning the Repository**
 
 Before you can work on the project, you need to create your own copy of the repository.
